@@ -19,4 +19,13 @@ Python 3.10 or higher
 
 Docker and Docker Compose installed on your system
 
+## Project setup
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/stormshadow47/notesapp.git
+cd notesapp
+
+```
+
 
