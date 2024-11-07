@@ -82,5 +82,30 @@ docker-compose exec web python manage.py migrate
 Once Docker is up, access the app at http://localhost:8000
 
 
+## Screenshots
+
+### User signup page
+
+![Screenshot 2024-11-07 153337](https://github.com/user-attachments/assets/b9e65f0a-15c5-418c-a474-9d1862501e2d)
+
+
+### Login page
+
+![Screenshot 2024-11-07 153037](https://github.com/user-attachments/assets/fc46747a-ee2b-4874-bd6c-6afa1b22d8ed)
+
+### Notes list page
+
+![Screenshot 2024-11-07 153153](https://github.com/user-attachments/assets/b399b010-2a96-4450-b2b6-bd40a906ff28)
+
+### Add notes page
+
+![Screenshot 2024-11-07 153309](https://github.com/user-attachments/assets/7c15dfa3-3e09-4088-ad37-26a5f2349151)
+
+
+### Notes detail, edit/delete
+
+![Screenshot 2024-11-07 153239](https://github.com/user-attachments/assets/d3bb5d03-8f6c-4922-b228-5556b4294580)
+
+
 
 
