@@ -84,20 +84,20 @@ Once Docker is up, access the app at http://localhost:8000
 
 ## Screenshots
 
-### User signup page
+### User signup 
 
 ![Screenshot 2024-11-07 153337](https://github.com/user-attachments/assets/b9e65f0a-15c5-418c-a474-9d1862501e2d)
 
 
-### Login page
+### Login 
 
 ![Screenshot 2024-11-07 153037](https://github.com/user-attachments/assets/fc46747a-ee2b-4874-bd6c-6afa1b22d8ed)
 
-### Notes list page
+### Notes list 
 
 ![Screenshot 2024-11-07 153153](https://github.com/user-attachments/assets/b399b010-2a96-4450-b2b6-bd40a906ff28)
 
-### Add notes page
+### Add notes 
 
 ![Screenshot 2024-11-07 153309](https://github.com/user-attachments/assets/7c15dfa3-3e09-4088-ad37-26a5f2349151)
 
