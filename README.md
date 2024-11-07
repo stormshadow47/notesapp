@@ -18,3 +18,5 @@ Dockerized for easy setup and deployment
 Python 3.10 or higher
 
 Docker and Docker Compose installed on your system
+
+
