@@ -57,5 +57,30 @@ python manage.py runserver
 
 ```
 
+### 6.Access the App
+
+Visit http://127.0.0.1:8000 in your web browser.
+
+## Docker setup
+
+### 1. Build and Run the Docker Containers
+
+```bash
+docker-compose up --build
+
+```
+
+### 2. Apply Migrations (Inside the Docker Container)
+
+```bash
+docker-compose exec web python manage.py migrate
+
+```
+
+### 3. Access the app in Docker
+
+Once Docker is up, access the app at http://localhost:8000
+
+
 
 
