@@ -1,0 +1,13 @@
+{% extends 'base_generic.html' %}
+
+{% block title %}{{ view.object.title|default:"Add Note" }}{% endblock %}
+
+{% block content %}
+<h2>{{ view.object.title|default:"Add Note" }}</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="btn btn-primary">{{ view.object.title|default:"Add" }}</button>
+</form>
+<a class="btn btn-link" href="{% url 'notes:note_list' %}">Back to list</a>
+{% endblock %}
