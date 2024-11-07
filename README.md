@@ -28,4 +28,12 @@ cd notesapp-main
 
 ```
 
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv notes_env
+.\notes_env\Scripts\activate # On mac or linux use 'source notes_env/bin/activate'
+
+```
+
 
