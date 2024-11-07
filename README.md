@@ -36,4 +36,26 @@ python -m venv notes_env
 
 ```
 
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+```
+
+### 4. Apply Migrations
+
+```bash
+python manage.py migrate
+
+```
+
+### 5. Run the Development Server
+
+```bash
+python manage.py runserver
+
+```
+
+
 
